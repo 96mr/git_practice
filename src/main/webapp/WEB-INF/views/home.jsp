@@ -10,6 +10,6 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  브랜치에서 변경된 내용입니다. </P>
 </body>
 </html>
